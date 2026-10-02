@@ -1,11 +1,19 @@
-I am a passionate developer with over 5 years of experience building fast, reliable, and user-focused digital products. I specialize in orchestrating AI tools like **Base44, Lovable, and Cursor** to deliver high-quality websites, mobile apps (iOS & Android), and CRM systems from concept to launch.
+# Hi, I'm Suleman Mamuda 👋
 
-- 🔭 I’m currently working on SmartPay/pivot-fitness (https://build44.app) – a transaction tracking app and workout tracker app.
-- 🌱 I’m currently building **Native App Development** and **Cloud Code** workflows.
-- 👯 I’m looking to collaborate on innovative projects that solve real-world problems.
-- 💬 Ask me about **Base44, Lovable, Cursor, or Native Mobile App Development**.
-- 📫 How to reach me: **sulemanmamud88@gmail.com**
-<!---
-sulemanmamud/sulemanmamud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Product Builder | Founder | Base44 Certified Expert**
+
+I build products that solve real problems. From idea to launch and beyond, I design, build, and ship mobile apps and web platforms that produce results.
+
+CEO of **Speakup Online**. Apps shipped on the **App Store** and **Google Play**.
+
+🔗 [See my portfolio → build44.app](https://build44.app)
+
+
+ 📱 Mobile apps (iOS & Android)
+ 🌐 Websites & web platforms
+ 🚀 App Store publishing
+🎯 Product strategy
+
+Ask me about:** Base44, Cursor, Native App Development, Product Strategy
+
+📫 **sulemanmamud88@gmail.com**
